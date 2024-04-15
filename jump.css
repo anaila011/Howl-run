@@ -34,7 +34,7 @@
     width: 150px; /* Largura do personagem Mario */
     position: absolute; /* Define a posição absoluta para o personagem Mario */
     bottom: 0; /* Alinha o personagem Mario na parte inferior da div .game-board */
-    margin-left: 600px;
+    margin-left: 1200px;
 }
 
 .pulo {
